@@ -15,4 +15,5 @@ while answer != number:
     print ("Too large")
   answer = int(input("Try again, input some number:"))
 print("You\'ve made it!!!\nBye!!!")
+input("Press Enter to continue...")
 
